@@ -1,9 +1,13 @@
-<div align="center">
-
-<h1 align="center">Hi I'm FALAKKKJ 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%20I'm%20FALAKKKJ&fontSize=70&animation=fadeIn&fontColor=00FF41" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=1000&color=00BFFF&center=true&multiline=true&width=1000&height=100&lines=🚀+B.Tech+Student+%7C+🤖+AI+%26+ML+Specialist;⚡+Building+Intelligent+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=F7F7F7&center=true&width=600&height=100&lines=Hi+I'm+FALAKKKJ" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=1000&color=00BFFF&center=true&multiline=true&width=1000&height=100&lines=🚀+B.Tech+Student+%7C+%F0%9F%A4%96+AI+%26+ML+Specialist;⚡+Building+Intelligent+AI+Systems" />
 </p>
 
 <h3 align="center">
@@ -13,8 +17,6 @@
 <p align="center">
   <img width="150px" src="https://komarev.com/ghpvc/?username=falakkkj&style=flat-square&color=FF8C00" />
 </p>
-
-</div>
 
 <br>
 
@@ -26,29 +28,42 @@ I'm a **B.Tech student specializing in Artificial Intelligence and Machine Learn
 - 💻 Building **full-stack applications** with modern tech stacks
 - 🔍 Exploring **Neural Networks, LLMs**, and AI-powered tools
 - 🏆 Improving problem-solving skills through competitive coding
-- ⚡ Fun fact: I debug life the same way I debug code — patiently and logically
+- ⚡ Fun fact: I debug life the same way I debug code — patiently and logically.
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <br>
-
 <div align="center">
-  <img src="gum_gum_top.png" width="450px">
-  
-  <details>
-    <summary>🗺️ SEE MORE</summary>
-    <br />
-    <img src="Cat Burglar.png" width="350">
-    <br />
-    
-    <h2 align="center">🏴‍☠️ FALAKKKJ 🏴‍☠️</h2>
-    
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=falakkkj&show_icons=true&theme=dracula" width="400">
-  </details>
-  
-  <img src="gum_gum_bottom.png" width="450px">
-</div>
+
+<img src="gum_gum_top.png" width="370px">
+
+<details>
+<summary>See more</summary>
 
 <br />
+
+<img src="Cat Burglar.png" width="150">
+
+<br />
+
+<h2 align="center">🏴‍☠️ FALAKKKJ 🏴‍☠️</h2>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=falakkkj&show_icons=true&theme=dracula" width="355px">
+
+</details>
+
+<img src="gum_gum_bottom.png" width="370px">
+
+</div>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,js,react,html,css,github&theme=dark" />
@@ -61,25 +76,28 @@ I'm a **B.Tech student specializing in Artificial Intelligence and Machine Learn
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula" alt="README Jokes">
 </div>
 
-<br />
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<h2 align="center">💰 Pirate Bounty (GitHub Stats)</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=falakkkj&show_icons=true&theme=tokyonight" />
-</p>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=falakkkj&theme=tokyonight" />
-</div>
-
-<br />
-
-<h2 align="center">🐍 Contribution Quest</h2>
-<p align="center">
-<img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
 </p>
 
-<br />
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h2 align="center">🐍 Watch My Contributions Come Alive!</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+</p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <div align="center">
   <b>💻 Navigator of Code: FALAKKKJ © 2026</b>
