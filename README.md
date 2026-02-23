@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%20I'm%20FALAKKKJ&fontSize=70&animation=fadeIn&fontColor=00FF41" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=F7F7F7&center=true&width=600&height=100&lines=Hi+I'm+FALAKKKJ" />
