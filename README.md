@@ -1,11 +1,11 @@
-
-
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=F7F7F7&center=true&width=600&height=100&lines=Hi+I'm+FALAKKKJ" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=FALAKKKJ&fontSize=65&animation=fadeIn&fontColor=00FF41" width="100%" />
 </p>
 
+<!-- Typing Role Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=1000&color=00BFFF&center=true&multiline=true&width=1000&height=100&lines=🚀+B.Tech+Student+%7C+%F0%9F%A4%96+AI+%26+ML+Specialist;⚡+Building+Intelligent+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=🚀+B.Tech+Student;🤖+AI+%26+ML+Specialist;⚡+Building+Intelligent+AI+Systems" />
 </p>
 
 <h3 align="center">
